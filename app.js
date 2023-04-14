@@ -21,13 +21,13 @@ const ap = new APlayer({
     {
         name: "I Ain't Worried",
         artist: 'OneRepublic',
-        url: 'http://live.mp3quran.net:8006/;.mp3',
+        url: 'https://ia803206.us.archive.org/24/items/mawa3ith/0005.mp3',
         cover: "https://ia902303.us.archive.org/22/items/snapshot-19/Snapshot_19.png"
     },
     {
         name: 'Nang',  // SONG NAME
         artist: 'Iman Troye', //ARTIST NAME
-        url: './music/Nang.mp3', // PATH NAME AND SONG URL
+        url: 'http://live.mp3quran.net:8006/;.mp3', // PATH NAME AND SONG URL
         cover: './pic/nang.jpg' // COVER IMAGE
     },
     {
