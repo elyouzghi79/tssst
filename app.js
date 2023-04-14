@@ -21,7 +21,7 @@ const ap = new APlayer({
     {
         name: "I Ain't Worried",
         artist: 'OneRepublic',
-        url: 'http://live.mp3quran.net:9928',
+        url: 'http://live.mp3quran.net:8006/;.mp3',
         cover: "https://ia902303.us.archive.org/22/items/snapshot-19/Snapshot_19.png"
     },
     {
